@@ -1,57 +1,54 @@
 # Project Name
 
-> One paragraph statement about the project.
+> We build a method #bubble_sort that takes an array and returns a sorted array. It uses the bubble sort methodology
+  We also create a similar method called #bubble_sort_by which sorts an array by accepting a block. 
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Using yield inside method to accomplish the sorting of a list using the bubble sort methodology . The block will have two arguments that represent the two elements of the array that are currently being compared. If the result of the block execution is negative, the element on the left is “smaller” than the element on the right. 0 means both elements are equal. A positive result means the left element is greater. We use the block’s return value to sort the array. 
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://repl.it/@DannisonArias/bubblesort)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+You can use the Repl.it link above to test the functionalities of the sorting method we created. 
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
+    - You need to have ***Ruby*** installed on your machine ([Check this out](https://www.ruby-lang.org/en/documentation/installation/) for instructions on installing ruby)
 
 ### Usage
+    To run the code go to the local folder where you have the *Ruby file* and run in the terminal `$ ruby file.rb` being 'file' the one you want to run
 
 ### Run tests
-
-### Deployment
+    - On the first method (`:bubble_sort`) you can change the given array where you call the method (just after the method definition).
+    - On the second one (`:bubble_sort_by`) you can change the words inside the array (remember to separate them with spaces).
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Carlos Anriquez**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@canriquez](https://github.com/canriquez)
+- Twitter: [@cranriquez](https://twitter.com/cranriquez)
+- Linkedin: [linkedin](https://www.linkedin.com/in/carlosanriquez/)
 
-👤 **Author2**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+👤 **Dannison Arias**
+
+- Github: [@githubhandle](https://github.com/Dannisonarias)
+- Twitter: [@twitterhandle](https://twitter.com/AriasDannison)
+- Linkedin: [linkedin](https://www.linkedin.com/in/dannison-arias-777919190/)
 
 ## 🤝 Contributing
 
