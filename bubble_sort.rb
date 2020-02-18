@@ -12,4 +12,4 @@ def bubble_sort(arr)
   arr
 end
 
-puts bubble_sort([4, 25, 3, 243, 3453, 12, 3, 5, 4])
+p bubble_sort([4, 25, 3, 243, 3453, 12, 3, 5, 4])
