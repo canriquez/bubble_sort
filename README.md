@@ -43,12 +43,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@cranriquez](https://twitter.com/cranriquez)
 - Linkedin: [linkedin](https://www.linkedin.com/in/carlosanriquez/)
 
-
 👤 **Dannison Arias**
 
-- Github: [@githubhandle](https://github.com/Dannisonarias)
-- Twitter: [@twitterhandle](https://twitter.com/AriasDannison)
-- Linkedin: [linkedin](https://www.linkedin.com/in/dannison-arias-777919190/)
+- Github: [@dannisonarias](https://github.com/dannisonarias)
+- Twitter: [@AriasDannison](https://twitter.com/AriasDannison)
+- Linkedin: [Dannison Arias](https://www.linkedin.com/in/dannison-arias-777919190/)
 
 ## 🤝 Contributing
 
