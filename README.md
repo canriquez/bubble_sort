@@ -13,7 +13,7 @@ Using yield inside method to accomplish the sorting of a list using the bubble s
 
 ## Live Demo
 
-[Live Demo Link](https://repl.it/@DannisonArias/bubblesort)
+[![Run on Repl.it](https://repl.it/badge/github/canriquez/bubble_sort)](https://repl.it/github/canriquez/bubble_sort)
 
 
 ## Getting Started
